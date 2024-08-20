@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+div{
+    box-sizing: border-box;
+    border: 2px solid;
+    display: flex;
+    
+    align-items: center;
+    padding: 0 20px;
+
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    font-size: 20px;
+    margin-left: 20px;
+    
+    
+
+}
+nav{
+    text-decoration: none;
+}
+li{
+    margin-left: 20px;
+    
+}
+header{
+    font-size: 30px;
+    align-items: center;
+    
+}
+img{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+}
+.class1{
+    box-sizing: border-box;
+    border: 2px solid;
+    align-items: center;
+    text-align: center;
+    color: whitesmoke;
+
+}
+.class2{
+    box-sizing: border-box;
+    border: 2px solid;
+    align-items: center;
+    text-align: center;
+    color: whitesmoke;
+
+}
+.class3{
+    box-sizing: border-box;
+    border: 2px solid;
+    align-items: center;
+    text-align: center;
+    color: whitesmoke;
+
+}
+.container1{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.container2{
+    display: flex;
+    justify-content: space-around;
+}
+.container3{
+    display: flex;
+    justify-content: space-around;
+}
+.class1{
+    width: 20%;
+    height: 300px;
+    padding: 10px;
+    margin: 20px;
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 2px 2px gray;
+}
+.class2{
+    width: 20%;
+    height: 300px;
+    padding: 10px;
+    margin: 20px;
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 2px 2px gray;
+}
+.class3{
+    width: 20%;
+    height: 300px;
+    padding: 10px;
+    margin: 20px;
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 2px 2px gray;
+}
+h1{
+    border: 2px solid whitesmoke;
+} 
+img{
+    vertical-align: bottom;
+}
+header{
+    vertical-align: top;
+}
+html{
+    border: 2px solid;
+}
